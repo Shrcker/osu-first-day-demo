@@ -13,3 +13,8 @@
 #portfolio {
     background-color: rgb(230, 138, 85);
 }
+
+img {
+    border-top-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
