@@ -18,3 +18,36 @@ img {
     border-top-left-radius: 25px;
     border-bottom-right-radius: 25px;
 }
+
+.sectionOne {
+    color: yellow;
+    background-color: purple;
+    width: 400px;
+    height: 120px;
+}
+
+.sectionTwo,
+.sectionThree {
+    color: orange;
+    background-color: blue;
+    width: 400px;
+    height: 120px;
+}
+
+.sectionFour,
+.sectionFive {
+    color: white;
+}
+
+.sectionSix {
+    color: yellow;
+}
+
+.container {
+    background-color: black;
+    width: 400px;
+}
+
+h1 + p {
+    font-size: 200%;
+  }
